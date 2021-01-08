@@ -1,0 +1,2 @@
+# DjangoApp
+Class App
